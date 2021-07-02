@@ -167,7 +167,7 @@ GEM
     multipart-post (2.1.1)
     mysql2 (0.5.3)
     mysql2 (0.5.3-x64-mingw32)
-    nio4r (2.5.4)
+    nio4r (2.5.7)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     nokogiri (1.10.10-x64-mingw32)
@@ -177,7 +177,7 @@ GEM
     paranoia (2.4.2)
       activerecord (>= 4.0, < 6.1)
     public_suffix (4.0.6)
-    puma (4.3.6)
+    puma (4.3.8)
       nio4r (~> 2.0)
     rack (2.2.3)
     rack-cors (1.1.1)
@@ -271,7 +271,7 @@ DEPENDENCIES
   listen (>= 3.0.5, < 3.2)
   mysql2 (>= 0.4.4)
   paranoia
-  puma (~> 4.1)
+  puma (~> 4.3)
   rack-cors
   rails (~> 6.0.2, >= 6.0.2.1)
   rubyzip
